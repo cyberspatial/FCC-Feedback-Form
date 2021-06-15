@@ -1,2 +1,2 @@
 # FCC-Feedback-Form
-Feedback form created using HTML and CSS.
+Feedback form designed using HTML and CSS.
